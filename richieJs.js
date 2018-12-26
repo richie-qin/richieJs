@@ -1,5 +1,4 @@
-(function(){
-	var RapidDevelopmentFramework ={
+	export const RapidDevelopmentFramework ={
 		
 		//通过JS 来进行获取JS 的本地的时间 例如 2017/6/25/19:34
 			GetDateTimeString: function () {
@@ -178,4 +177,3 @@
 	 
 	        },
 	}
-})
